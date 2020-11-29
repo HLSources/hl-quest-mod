@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="cl_dll">
+</Property><Property Name="Файл решения" Value="C:\Games\Half-Life\sci\sources_paint\cl_dll\cl_dll.sln">
+</Property><Property Name="Файл параметров пользователя" Value="C:\Games\Half-Life\sci\sources_paint\cl_dll\cl_dll.suo">
+</Property><Property Name="Date" Value="27 февраля 2016 г.">
+</Property><Property Name="Time" Value="3:56">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="cl_dll.sln" Description="Успешно создана резервная копия файла C:\Games\Half-Life\sci\sources_paint\cl_dll\cl_dll.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="cl_dll.suo" Description="Успешно создана резервная копия файла C:\Games\Half-Life\sci\sources_paint\cl_dll\cl_dll.suo.old">
+</Event><Event ErrorLevel="0" Project="cl_dll" Source="cl_dll.vcproj" Description="Веб-развертывание на локальном IIS-сервере больше не поддерживается. Инструмент веб-развертывания был удален из параметров проекта.">
+</Event><Event ErrorLevel="1" Project="cl_dll" Source="cl_dll.vcproj" Description="Приложение было обновлено, чтобы включить параметры, связанные с контролем учетных записей пользователей (UAC), появившемся в Windows Vista. По умолчанию, в Windows Vista при включенном UAC, приложение запускается с теми же привилегиями, что и запустивший его процесс. Это также делает невозможным запуск приложений с технологией виртуализации. Параметры, связанные с UAC можно поменять на странице свойств проекта.">
+</Event><Event ErrorLevel="0" Project="cl_dll" Source="cl_dll.vcproj" Description="Из проектного файла была успешно сделана резервная копия &quot;C:\Games\Half-Life\sci\sources_paint\cl_dll\cl_dll.vcproj.8.00.old&quot;.">
+</Event><Event ErrorLevel="0" Project="cl_dll" Source="cl_dll.vcproj" Description="Проект обновлен успешно.">
+</Event><Event ErrorLevel="3" Project="cl_dll" Source="cl_dll.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="cl_dll.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="cl_dll.sln" Description="Converted">
+</Event></UpgradeLog>

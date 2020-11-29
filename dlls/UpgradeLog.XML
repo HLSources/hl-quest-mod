@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="hl">
+</Property><Property Name="Файл решения" Value="C:\Games\Half-Life\sci\sources_paint\dlls\hl.sln">
+</Property><Property Name="Файл параметров пользователя" Value="C:\Games\Half-Life\sci\sources_paint\dlls\hl.suo">
+</Property><Property Name="Date" Value="27 февраля 2016 г.">
+</Property><Property Name="Time" Value="3:57">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="hl.sln" Description="Успешно создана резервная копия файла C:\Games\Half-Life\sci\sources_paint\dlls\hl.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="hl.suo" Description="Успешно создана резервная копия файла C:\Games\Half-Life\sci\sources_paint\dlls\hl.suo.old">
+</Event><Event ErrorLevel="0" Project="hl" Source="hl.vcproj" Description="Веб-развертывание на локальном IIS-сервере больше не поддерживается. Инструмент веб-развертывания был удален из параметров проекта.">
+</Event><Event ErrorLevel="1" Project="hl" Source="hl.vcproj" Description="Приложение было обновлено, чтобы включить параметры, связанные с контролем учетных записей пользователей (UAC), появившемся в Windows Vista. По умолчанию, в Windows Vista при включенном UAC, приложение запускается с теми же привилегиями, что и запустивший его процесс. Это также делает невозможным запуск приложений с технологией виртуализации. Параметры, связанные с UAC можно поменять на странице свойств проекта.">
+</Event><Event ErrorLevel="0" Project="hl" Source="hl.vcproj" Description="Из проектного файла была успешно сделана резервная копия &quot;C:\Games\Half-Life\sci\sources_paint\dlls\hl.vcproj.8.00.old&quot;.">
+</Event><Event ErrorLevel="0" Project="hl" Source="hl.vcproj" Description="Проект обновлен успешно.">
+</Event><Event ErrorLevel="3" Project="hl" Source="hl.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="hl.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="hl.sln" Description="Converted">
+</Event></UpgradeLog>
